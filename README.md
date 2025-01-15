@@ -64,9 +64,6 @@ Here are some potential improvements to the game:
 - Allow players to customize their symbols.
 - Include a replay option at the end of the game.
 
-## License
-
-This project is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as you wish.
 
 ---
 
